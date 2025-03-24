@@ -1,4 +1,4 @@
-# Telegram Connection Monitor Bot
+# VPS Connection Monitor Bot
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot_API-green.svg)
